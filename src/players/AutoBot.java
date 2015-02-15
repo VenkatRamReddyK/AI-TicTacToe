@@ -19,11 +19,6 @@ public class AutoBot extends Player{
     public AutoBot() {                           
         aiEngine=new AIEngine();
     }
-//    public void initGame(PLAYERTYPE currentAiTurn,
-//            COINNAME[][] currentGameState){
-//        this.currentAiTurn=currentAiTurn;
-//        this.currentGameState=currentGameState;
-//    }    
     
     
     public int move(COINNAME[][] currentGameState){        

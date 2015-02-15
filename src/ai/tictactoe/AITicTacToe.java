@@ -5,6 +5,8 @@
  */
 package ai.tictactoe;
 
+import game.Board;
+
 /**
  *
  * @author venkatramreddykunta
@@ -16,6 +18,9 @@ public class AITicTacToe {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int size=3;
+        Board board=new Board(size);
+        board.startGame();
     }
     
 }
