@@ -4,8 +4,8 @@
  * and open the template in the editor.
  */
 package players;
-import AI.AIEngine;
-import AI.Score;
+import ai.AIEngine;
+import ai.Score;
 import game.*;
 import game.Board.*;
 import java.util.List;

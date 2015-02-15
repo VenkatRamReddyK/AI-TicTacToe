@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package AI;
+package ai;
 import game.*;
 import game.Board.*;
 import java.util.ArrayList;
